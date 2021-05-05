@@ -31,7 +31,7 @@ $ yarn
 $ yarn server
 
 # Execute a aplicação
-$ yarn dev:server
+$ yarn dev
 
 ## Prontinho você terá acesso a aplicação!!! 
 ```
